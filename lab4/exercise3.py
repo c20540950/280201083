@@ -1,5 +1,5 @@
-a = [1, 5, 4, 6]
+num = [8, 60, 43, 55, 25, 134, 1]
 sum = 0
-for i in a:
+for i in num:
   sum +=i
 print(sum)
